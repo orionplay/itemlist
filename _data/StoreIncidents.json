@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 8000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 18500,
 		"karmatype": "Bad"
 	},
 	{
@@ -37,7 +37,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
@@ -72,12 +72,12 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -87,12 +87,12 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 7500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 7000,
 		"karmatype": "Bad"
 	},
 	{
@@ -113,11 +113,6 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -137,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 4500,
 		"karmatype": "Good"
 	},
 	{
@@ -168,11 +163,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -212,13 +202,18 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 1900,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 7500,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -226,18 +221,18 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "1124554548612684321sad651as6d4a68s4d98as4d5as1d968adljfkhijgiugfjbgkdfhgkjsdhbkdsbkjcbiughds",
-		"price": 1500000,
-		"karmatype": "Doom"
+		"abr": "dropraid",
+		"price": 7500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -247,7 +242,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,12 +257,12 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 7000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -302,7 +297,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 4500,
 		"karmatype": "Good"
 	},
 	{
@@ -352,7 +347,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -389,7 +384,57 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "smite",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "sanctuary",
+		"price": 100000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "immortality",
+		"price": 250000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 78
+	"total": 87
 }
