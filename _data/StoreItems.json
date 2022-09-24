@@ -2989,12 +2989,6 @@
 		"defname": "NV_nv_goggles"
 	},
 	{
-		"abr": "aimanager",
-		"price": 13667,
-		"category": "Production",
-		"defname": "FM_AIManager"
-	},
-	{
 		"abr": "advancedarchotecharm",
 		"price": 33333,
 		"category": "Prosthetic",
@@ -3115,102 +3109,6 @@
 		"defname": "ArchotechSubdermalArmor"
 	},
 	{
-		"abr": "basicmanagerdesk",
-		"price": 262,
-		"category": "Production",
-		"defname": "FM_BasicManagerStation"
-	},
-	{
-		"abr": "builder(i)basestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_I"
-	},
-	{
-		"abr": "builder(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_II"
-	},
-	{
-		"abr": "builder(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_III"
-	},
-	{
-		"abr": "builder(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_IV"
-	},
-	{
-		"abr": "builder(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_V"
-	},
-	{
-		"abr": "cleanerbasestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner"
-	},
-	{
-		"abr": "cleaner(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_II"
-	},
-	{
-		"abr": "cleaner(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_III"
-	},
-	{
-		"abr": "cleaner(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_IV"
-	},
-	{
-		"abr": "cleaner(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_V"
-	},
-	{
-		"abr": "crafter(i)basestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_I"
-	},
-	{
-		"abr": "crafter(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_II"
-	},
-	{
-		"abr": "crafter(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_III"
-	},
-	{
-		"abr": "crafter(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_IV"
-	},
-	{
-		"abr": "crafter(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_V"
-	},
-	{
 		"abr": "doormat",
 		"price": 8,
 		"category": "Furniture",
@@ -3253,96 +3151,6 @@
 		"defname": "EquipmentReinforcer"
 	},
 	{
-		"abr": "er(i)basestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_I"
-	},
-	{
-		"abr": "er(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_II"
-	},
-	{
-		"abr": "er(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_III"
-	},
-	{
-		"abr": "er(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_IV"
-	},
-	{
-		"abr": "er(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_V"
-	},
-	{
-		"abr": "haulerbasestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler"
-	},
-	{
-		"abr": "hauler(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_II"
-	},
-	{
-		"abr": "hauler(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_III"
-	},
-	{
-		"abr": "hauler(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_IV"
-	},
-	{
-		"abr": "hauler(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_V"
-	},
-	{
-		"abr": "kitchen(i)basestation",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_I"
-	},
-	{
-		"abr": "kitchen(ii)basestation",
-		"price": 2058,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_II"
-	},
-	{
-		"abr": "kitchen(iii)basestation",
-		"price": 4533,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_III"
-	},
-	{
-		"abr": "kitchen(iv)basestation",
-		"price": 9417,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_IV"
-	},
-	{
-		"abr": "kitchen(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_V"
-	},
-	{
 		"abr": "largedoormat",
 		"price": 13,
 		"category": "Furniture",
@@ -3379,18 +3187,6 @@
 		"defname": "LT_DoorMatBigTeal"
 	},
 	{
-		"abr": "managerdesk",
-		"price": 508,
-		"category": "Production",
-		"defname": "FM_ManagerStation"
-	},
-	{
-		"abr": "omni(v)basestation",
-		"price": 19092,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Omni_V"
-	},
-	{
 		"abr": "reinforcermechanite",
 		"price": 7500,
 		"category": "Manufactured",
@@ -3401,48 +3197,6 @@
 		"price": 592,
 		"category": "Prosthetic",
 		"defname": "NV_TapetumImplant"
-	},
-	{
-		"abr": "roboticcomponent",
-		"price": 333,
-		"category": "Items",
-		"defname": "RPP_Component"
-	},
-	{
-		"abr": "roboticmatrix(advanced)",
-		"price": 8817,
-		"category": "Items",
-		"defname": "RPP_Matrix_IV"
-	},
-	{
-		"abr": "roboticmatrix(anti-logic)",
-		"price": 17967,
-		"category": "Items",
-		"defname": "RPP_Matrix_V"
-	},
-	{
-		"abr": "roboticmatrix(basic)",
-		"price": 1825,
-		"category": "Items",
-		"defname": "RPP_Matrix_II"
-	},
-	{
-		"abr": "roboticmatrix(intermediate)",
-		"price": 4158,
-		"category": "Items",
-		"defname": "RPP_Matrix_III"
-	},
-	{
-		"abr": "roboticmatrix(simple)",
-		"price": 775,
-		"category": "Items",
-		"defname": "RPP_Matrix_I"
-	},
-	{
-		"abr": "roboticsworkbench",
-		"price": 1475,
-		"category": "Production",
-		"defname": "Table_RPP_RoboticsBench"
 	},
 	{
 		"abr": "tintedgoggles",
@@ -4177,18 +3931,6 @@
 		"defname": "VCEF_RawCatfish"
 	},
 	{
-		"abr": "chargelancecombatmodule",
-		"price": 3108,
-		"category": "Spacer combat modules",
-		"defname": "BIE_SpacerChargeLanceCombatModule"
-	},
-	{
-		"abr": "chargeriflecombatmodule",
-		"price": 2625,
-		"category": "Spacer combat modules",
-		"defname": "BIE_SpacerChargeRifleCombatModule"
-	},
-	{
 		"abr": "clownfish",
 		"price": 1,
 		"category": "Raw fish",
@@ -4213,22 +3955,10 @@
 		"defname": "VCEF_RawEel"
 	},
 	{
-		"abr": "empgrenadedispensermodule",
-		"price": 1200,
-		"category": "Spacer combat modules",
-		"defname": "BIE_SpacerEMPGrenadeCombatModule"
-	},
-	{
 		"abr": "flyingfish(adeptcatch)",
 		"price": 4,
 		"category": "Raw fish",
 		"defname": "VCEF_FlyingFishItem"
-	},
-	{
-		"abr": "fraggrenadedispensermodule",
-		"price": 1183,
-		"category": "Spacer combat modules",
-		"defname": "BIE_SpacerFragGrenadeCombatModule"
 	},
 	{
 		"abr": "freshwaterstingray(adeptcatch)",
@@ -4315,24 +4045,6 @@
 		"defname": "VCEF_RawPiranha"
 	},
 	{
-		"abr": "plasmaclawcombatmodule",
-		"price": 3333,
-		"category": "Spacer combat modules",
-		"defname": "BIE_SpacerPlasmaClawCombatModule"
-	},
-	{
-		"abr": "powerclawcombatmodule",
-		"price": 1758,
-		"category": "Spacer combat modules",
-		"defname": "BIE_SpacerPowerClawCombatModule"
-	},
-	{
-		"abr": "powerfistcombatmodule",
-		"price": 1758,
-		"category": "Spacer combat modules",
-		"defname": "BIE_SpacerPowerFistCombatModule"
-	},
-	{
 		"abr": "pufferfish",
 		"price": 2,
 		"category": "Raw fish",
@@ -4375,60 +4087,6 @@
 		"defname": "VME_TackleBox"
 	},
 	{
-		"abr": "alpacameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Alpaca"
-	},
-	{
-		"abr": "alphabeavermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Alphabeaver"
-	},
-	{
-		"abr": "bearmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Bear_Grizzly"
-	},
-	{
-		"abr": "bearskin",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_Bear"
-	},
-	{
-		"abr": "birdmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cassowary"
-	},
-	{
-		"abr": "bisonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Bison"
-	},
-	{
-		"abr": "bluefur",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "Leather_Bluefur"
-	},
-	{
-		"abr": "boomalopemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Boomalope"
-	},
-	{
-		"abr": "boomratmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Boomrat"
-	},
-	{
 		"abr": "buddhistslab(broad)",
 		"price": 508,
 		"category": "Furniture",
@@ -4441,58 +4099,10 @@
 		"defname": "AM_BuddhistSlab_Medium"
 	},
 	{
-		"abr": "camelhide",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "Leather_Camel"
-	},
-	{
-		"abr": "capybarameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Capybara"
-	},
-	{
-		"abr": "cariboumeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Caribou"
-	},
-	{
-		"abr": "catmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cat"
-	},
-	{
 		"abr": "chargelance",
 		"price": 2258,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
-	},
-	{
-		"abr": "chargeriflecombatdrone",
-		"price": 2825,
-		"category": "Spacer combat drones",
-		"defname": "CD_SpacerChargeRifleCombatDrone"
-	},
-	{
-		"abr": "chickenmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Chicken"
-	},
-	{
-		"abr": "chinchillafur",
-		"price": 11,
-		"category": "Leathers",
-		"defname": "Leather_Chinchilla"
-	},
-	{
-		"abr": "chinchillameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Chinchilla"
 	},
 	{
 		"abr": "christianslab(broad)",
@@ -4507,12 +4117,6 @@
 		"defname": "AM_ChristianSlab_Medium"
 	},
 	{
-		"abr": "cobrameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cobra"
-	},
-	{
 		"abr": "corsairslab(broad)",
 		"price": 508,
 		"category": "Furniture",
@@ -4523,12 +4127,6 @@
 		"price": 342,
 		"category": "Furniture",
 		"defname": "AM_CorsairSlab_Medium"
-	},
-	{
-		"abr": "cougarmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cougar"
 	},
 	{
 		"abr": "crudestonetable(1x2)",
@@ -4579,130 +4177,10 @@
 		"defname": "AM_Neolithic_WoodenTable_3x3c"
 	},
 	{
-		"abr": "dogleather",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_Dog"
-	},
-	{
-		"abr": "donkeymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Donkey"
-	},
-	{
-		"abr": "dromedarymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Dromedary"
-	},
-	{
-		"abr": "duckmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Duck"
-	},
-	{
-		"abr": "elephantleather",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Elephant"
-	},
-	{
-		"abr": "elephantmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Elephant"
-	},
-	{
-		"abr": "elkmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Elk"
-	},
-	{
-		"abr": "everythingcraftingtable",
-		"price": 302,
-		"category": "Production",
-		"defname": "ET_CraftingTable"
-	},
-	{
 		"abr": "fleshcraftedfoot",
 		"price": 75,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedFoot"
-	},
-	{
-		"abr": "foxmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Fox_Fennec"
-	},
-	{
-		"abr": "foxfur",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_Fox"
-	},
-	{
-		"abr": "gazellemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Gazelle"
-	},
-	{
-		"abr": "goatmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Goat"
-	},
-	{
-		"abr": "guineapigfur",
-		"price": 8,
-		"category": "Leathers",
-		"defname": "Leather_GuineaPig"
-	},
-	{
-		"abr": "guineapigmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_GuineaPig"
-	},
-	{
-		"abr": "haremeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Hare"
-	},
-	{
-		"abr": "horsemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Horse"
-	},
-	{
-		"abr": "huskymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Husky"
-	},
-	{
-		"abr": "ibexmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Ibex"
-	},
-	{
-		"abr": "iguanameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Iguana"
-	},
-	{
-		"abr": "immaturedryadmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Dryad_Basic"
 	},
 	{
 		"abr": "islamicslab(broad)",
@@ -4729,106 +4207,10 @@
 		"defname": "AM_JainSlab_Medium"
 	},
 	{
-		"abr": "labradorretrievermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_LabradorRetriever"
-	},
-	{
-		"abr": "lynxmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Lynx"
-	},
-	{
 		"abr": "megalith",
 		"price": 1950,
 		"category": "Misc",
 		"defname": "AM_Megalith"
-	},
-	{
-		"abr": "megaslothmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Megasloth"
-	},
-	{
-		"abr": "minichargeblastercombatdrone",
-		"price": 1408,
-		"category": "Spacer combat drones",
-		"defname": "CD_SpacerMiniChargeBlasterCombatDrone"
-	},
-	{
-		"abr": "miniempblastercombatdrone",
-		"price": 1408,
-		"category": "Spacer combat drones",
-		"defname": "CD_SpacerMiniEMPBlasterCombatDrone"
-	},
-	{
-		"abr": "monkeymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Monkey"
-	},
-	{
-		"abr": "muffalomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Muffalo"
-	},
-	{
-		"abr": "panthermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Panther"
-	},
-	{
-		"abr": "pantherafur",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Panthera"
-	},
-	{
-		"abr": "pigskin",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_Pig"
-	},
-	{
-		"abr": "pork",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Pig"
-	},
-	{
-		"abr": "raccoonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Raccoon"
-	},
-	{
-		"abr": "ratmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Rat"
-	},
-	{
-		"abr": "rhinocerosleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "Leather_Rhinoceros"
-	},
-	{
-		"abr": "rhinocerosmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Rhinoceros"
-	},
-	{
-		"abr": "sheepmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Sheep"
 	},
 	{
 		"abr": "sikhslab(broad)",
@@ -4845,80 +4227,14 @@
 	{
 		"abr": "squirrelmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "",
 		"defname": "Meat_Squirrel"
-	},
-	{
-		"abr": "sraf:canary",
-		"price": 20258,
-		"category": "Buildings",
-		"defname": "SRAF"
-	},
-	{
-		"abr": "sraf:tek-7",
-		"price": 31292,
-		"category": "Buildings",
-		"defname": "SRAFTek"
-	},
-	{
-		"abr": "srtsmk.i:skip",
-		"price": 9150,
-		"category": "Buildings",
-		"defname": "SRTSSkip"
-	},
-	{
-		"abr": "srtsmk.ii:albatross",
-		"price": 29875,
-		"category": "Buildings",
-		"defname": "SRTSMkII"
-	},
-	{
-		"abr": "srtsmk.iii:phoenix",
-		"price": 52792,
-		"category": "Buildings",
-		"defname": "SRTSMkIII"
-	},
-	{
-		"abr": "srtsmk.iiip:pelican",
-		"price": 61100,
-		"category": "Buildings",
-		"defname": "SRTSMkIIIp"
-	},
-	{
-		"abr": "srtsmk.iv:genesis",
-		"price": 218617,
-		"category": "Buildings",
-		"defname": "SRTSMkIV"
 	},
 	{
 		"abr": "stone-framedbedroll",
 		"price": 159,
 		"category": "Furniture",
 		"defname": "AM_StoneBedroll"
-	},
-	{
-		"abr": "superpod",
-		"price": 6958,
-		"category": "Buildings",
-		"defname": "SRTSSuperpod"
-	},
-	{
-		"abr": "thrumbomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Thrumbo"
-	},
-	{
-		"abr": "thrumbofur",
-		"price": 23,
-		"category": "Leathers",
-		"defname": "Leather_Thrumbo"
-	},
-	{
-		"abr": "tortoisemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Tortoise"
 	},
 	{
 		"abr": "trout",
@@ -4933,54 +4249,6 @@
 		"defname": "VCEF_RawTuna"
 	},
 	{
-		"abr": "turkeymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Turkey"
-	},
-	{
-		"abr": "venison",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Deer"
-	},
-	{
-		"abr": "wargmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Warg"
-	},
-	{
-		"abr": "wolfmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Wolf_Timber"
-	},
-	{
-		"abr": "wolfskin",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Wolf"
-	},
-	{
-		"abr": "yakbeef",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Yak"
-	},
-	{
-		"abr": "yorkshireterriermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_YorkshireTerrier"
-	},
-	{
-		"abr": "zeusfistcombatmodule",
-		"price": 3333,
-		"category": "Spacer combat modules",
-		"defname": "BIE_SpacerZeusFistCombatModule"
-	},
-	{
 		"abr": "mummified",
 		"price": 197,
 		"category": "Art",
@@ -4991,12 +4259,6 @@
 		"price": 197,
 		"category": "Art",
 		"defname": "AM_MummyFemale"
-	},
-	{
-		"abr": "chargeriflecombatdronepack",
-		"price": 3442,
-		"category": "Spacer combat drones",
-		"defname": "BIE_CombatDrone_ChargeRifle_Implant"
 	},
 	{
 		"abr": "epicureandelight",
@@ -5011,299 +4273,203 @@
 		"defname": "MooMF_MythMaker"
 	},
 	{
-		"abr": "<color=#00fff7>auxilaryheart</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_AbdominalAndChestcavity_AuxilaryHeart"
+		"abr": "90mmflakturret",
+		"price": 2325,
+		"category": "Security",
+		"defname": "Turret_Flak"
 	},
 	{
-		"abr": "<color=#00fff7>butchersnails</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Brain_ButchersNails"
+		"abr": "advancednightvisiongoggles",
+		"price": 683,
+		"category": "Headgear",
+		"defname": "Apparel_AdvancedNightVision"
 	},
 	{
-		"abr": "<color=#00fff7>calciumalloyribcage</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Protection_Ribcage_CalciumAlloyRibcage"
+		"abr": "ags-30",
+		"price": 833,
+		"category": "Security",
+		"defname": "Turret_AGSThirty"
 	},
 	{
-		"abr": "<color=#00fff7>combatserumgland</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_AbdominalAndChestcavity_CombatSerumGland"
+		"abr": "ancientlockerbank",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "AM_AncientLockerBank"
 	},
 	{
-		"abr": "<color=#00fff7>cranialplating</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Protection_Skull_CranialPlating"
+		"abr": "backpack",
+		"price": 181,
+		"category": "Loadbearing gear",
+		"defname": "Apparel_Backpack"
 	},
 	{
-		"abr": "<color=#00fff7>distendablejaw</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Jaw_DistendableJaw"
+		"abr": "ballisticshield",
+		"price": 417,
+		"category": "Shields",
+		"defname": "Apparel_BallisticShield"
 	},
 	{
-		"abr": "<color=#00fff7>extrananofilterlung</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_AbdominalAndChestcavity_ExtraNanofilterLung"
+		"abr": "bascinet",
+		"price": 265,
+		"category": "Headgear",
+		"defname": "Apparel_Bascinet"
 	},
 	{
-		"abr": "<color=#00fff7>extradextrousappendage</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Appendage_ExtradextrousArm"
+		"abr": "binoculars",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "Gun_BinocularsRadio"
 	},
 	{
-		"abr": "<color=#00fff7>eyeofthevoid</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Eye_EyeOfTheVoid"
+		"abr": "book",
+		"price": 38,
+		"category": "Items",
+		"defname": "Jecrell_Book"
 	},
 	{
-		"abr": "<color=#00fff7>featheredwings</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Back_FeatheredWings"
+		"abr": "chargeblasterauto-turret",
+		"price": 1583,
+		"category": "Security",
+		"defname": "Turret_Blaster"
 	},
 	{
-		"abr": "<color=#00fff7>flameretardantskin</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Protection_Skin_FlameRetardantSkin"
+		"abr": "compositevest",
+		"price": 442,
+		"category": "Armor",
+		"defname": "Apparel_CompositeVest"
 	},
 	{
-		"abr": "<color=#00fff7>frostmantishook</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Appendage_FrostMantisHook"
+		"abr": "disposablerocketlauncher",
+		"price": 152,
+		"category": "Ranged weapons",
+		"defname": "CE_DisposableRocketLauncher"
 	},
 	{
-		"abr": "<color=#00fff7>graspingleg</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Appendage_GraspingLeg"
+		"abr": "dualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_Refrigerator"
 	},
 	{
-		"abr": "<color=#00fff7>highpressurepincer</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Appendage_HighPressurePincer"
+		"abr": "electricpapermakingstation",
+		"price": 408,
+		"category": "Production",
+		"defname": "RimWriter_PapermakingBenchElectric"
 	},
 	{
-		"abr": "<color=#00fff7>hormoneregulator</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_AbdominalAndChestcavity_HormoneRegulator"
+		"abr": "firefoamgrenade",
+		"price": 19,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeFirefoam"
 	},
 	{
-		"abr": "<color=#00fff7>interferenceshielding</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Protection_Skull_InterferenceShielding"
+		"abr": "flaregun",
+		"price": 200,
+		"category": "Ranged weapons",
+		"defname": "CE_FlareGun"
 	},
 	{
-		"abr": "<color=#00fff7>iridescenteye</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Eye_IridescentEye"
+		"abr": "flashbanggrenade",
+		"price": 14,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeFlashbang"
 	},
 	{
-		"abr": "<color=#00fff7>leatherywings</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Back_LeatheryWings"
+		"abr": "fsx",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "FSX"
 	},
 	{
-		"abr": "<color=#00fff7>lymphaticproliferator</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_AbdominalAndChestcavity_LymphaticProliferator"
+		"abr": "adaptioncream",
+		"price": 83,
+		"category": "Medicine",
+		"defname": "PM_AdaptionCream"
 	},
 	{
-		"abr": "<color=#00fff7>microanalyzernose</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Nose_MicroAnalyzerNose"
+		"abr": "advancedgenebank",
+		"price": 792,
+		"category": "Buildings",
+		"defname": "PM_GenebankLarge"
 	},
 	{
-		"abr": "<color=#00fff7>mucousgland</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Torso_MucousGland"
+		"abr": "aerogel",
+		"price": 23,
+		"category": "Raw resources",
+		"defname": "TMaterials_Aerogel"
 	},
 	{
-		"abr": "<color=#00fff7>multichamberstomach</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Stomach_MultichamberStomach"
+		"abr": "aerographene",
+		"price": 30,
+		"category": "Raw resources",
+		"defname": "TMaterials_Aerographene"
 	},
 	{
-		"abr": "<color=#00fff7>multifrequencyear</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Ear_MultifrequencyEar"
+		"abr": "air-conindoorunit",
+		"price": 82,
+		"category": "Hygiene",
+		"defname": "AirconIndoorUnit"
 	},
 	{
-		"abr": "<color=#00fff7>multilayereddermalplating</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Protection_Torso_MultilayeredDermalPlating"
+		"abr": "air-conoutdoorunit",
+		"price": 458,
+		"category": "Hygiene",
+		"defname": "AirConOutdoorUnit"
 	},
 	{
-		"abr": "<color=#00fff7>multispectrumeye</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Eye_MultispectrumEye"
+		"abr": "alpacamorph",
+		"price": 1750,
+		"category": "Animal",
+		"defname": "AlpacaMorphRace_Implied"
 	},
 	{
-		"abr": "<color=#00fff7>musculaturebraces</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Back_MusculatureBraces"
+		"abr": "alphabeavermorph",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AlphabeaverMorphRace_Implied"
 	},
 	{
-		"abr": "<color=#00fff7>nanoalveolilung</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Lung_NanoAlveoliLung"
+		"abr": "ancientcorticalstack",
+		"price": 417,
+		"category": "Cortical stack",
+		"defname": "UT_AncientStack"
 	},
 	{
-		"abr": "<color=#00fff7>neuralhyperthreader</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Brain_NeuralHyperthreader"
+		"abr": "antenna",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_Antenna"
 	},
 	{
-		"abr": "<color=#00fff7>neuroacceleratedspine</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Spine_NeuroAcceleratedSpine"
+		"abr": "antigen",
+		"price": 167,
+		"category": "Serums",
+		"defname": "Antigen"
 	},
 	{
-		"abr": "<color=#00fff7>norncrown</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Sternum_NornCrown"
+		"abr": "archotecheraser",
+		"price": 1083,
+		"category": "Utility",
+		"defname": "VFEI_Artifacts_ArchotechEraser"
 	},
 	{
-		"abr": "<color=#00fff7>ossifiedbonesaber</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Appendage_OssifiedBoneSaber"
+		"abr": "archotechshieldbelt",
+		"price": 2183,
+		"category": "Artifacts",
+		"defname": "VFEI_Apparel_ArchotechShieldBelt"
 	},
 	{
-		"abr": "<color=#00fff7>peltgrowth</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Back_PeltGrowth"
+		"abr": "archotechteleporter",
+		"price": 1333,
+		"category": "Artifacts",
+		"defname": "VFEI_Artifacts_ArchotechTeleporter"
 	},
 	{
-		"abr": "<color=#00fff7>perspirationcleansingkidney</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Kidney_PerspirationCleansingKidney"
+		"abr": "arcticfoxmorph",
+		"price": 1625,
+		"category": "Animal",
+		"defname": "ArcticFoxMorphRace_Implied"
 	},
-	{
-		"abr": "<color=#00fff7>pheromonereleasernose</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Nose_PheromoneReleaserNose"
-	},
-	{
-		"abr": "<color=#00fff7>phytoplanktonskin</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Protection_Skin_PhytoplanktonSkin"
-	},
-	{
-		"abr": "<color=#00fff7>plaguelesions</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Sternum_PlagueLesions"
-	},
-	{
-		"abr": "<color=#00fff7>psychicresonancetissue</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Protection_Skull_PsychicResonanceTissue"
-	},
-	{
-		"abr": "<color=#00fff7>quadlobeliver</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Liver_QuadlobeLiver"
-	},
-	{
-		"abr": "<color=#00fff7>radiationabsorbingskin</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Protection_Skin_RadiationAbsorbingSkin"
-	},
-	{
-		"abr": "<color=#00fff7>rasvacoule</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_AbdominalAndChestcavity_RasVacoule"
-	},
-	{
-		"abr": "<color=#00fff7>reactiveshimmerworms</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Sternum_ReactiveShimmerworms"
-	},
-	{
-		"abr": "<color=#00fff7>regenerativeliver</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Liver_RegenerativeLiver"
-	},
-	{
-		"abr": "<color=#00fff7>reinforcedleg</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Appendage_ReinforcedLeg"
-	},
-	{
-		"abr": "<color=#00fff7>reinforcedneckmuscles</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Protection_Neck_ReinforcedNeckMuscles"
-	},
-	{
-		"abr": "<color=#00fff7>reinforcedtortoiseshell</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Sternum_ReinforcedTortoiseShell"
-	},
-	{
-		"abr": "<color=#00fff7>rendingclaw</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Appendage_RendingClaw"
-	},
-	{
-		"abr": "<color=#00fff7>reptilianfrontalcortex</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Brain_ReptilianFrontalCortex"
-	},
-	{
-		"abr": "<color=#00fff7>salamanderwhip</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Appendage_SalamanderWhip"
-	},
-	{
-		"abr": "<color=#00fff7>shimmeringskin</color>",
-		"price": 4667,
-		"category": "Evolved body parts",
-		"defname": "EVOR_Item_Protection_Skin_ShimmeringSkin"
-	}
 	],
-	"total": 1547
+	"total": 1174
 }
