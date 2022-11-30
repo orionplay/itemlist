@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "data": {
       "isShortcut": false,
@@ -210,7 +210,7 @@
     },
     "description": null,
     "name": "Join queue",
-    "usage": "!join",
+    "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
@@ -498,7 +498,7 @@
     },
     "description": "Purchases the part specified and queues it for surgery on your pawn.",
     "name": "Surgery",
-    "usage": "!operar <item> <quantity/bodypart>",
+    "usage": "!surgery <item> <quantity/bodypart>",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "SurgeryShortcut"

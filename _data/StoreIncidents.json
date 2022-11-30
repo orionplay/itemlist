@@ -296,11 +296,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
@@ -434,6 +429,11 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "immortality",
+		"price": 100000,
+		"karmatype": "Neutral"
 	}
 	],
 	"total": 87
